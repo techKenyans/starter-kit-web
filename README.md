@@ -1,21 +1,21 @@
 # Starter Web Kit
 
-This is the best alternative to doing this on [jamii](http://techkenyans.org/jamii/) (*swahili* for community on techKenyans)
+This is the best alternative of doing this than on [jamii](http://techkenyans.org/jamii/) (*swahili* for community on techKenyans)
 
 Follow this easy steps to create your own web profile hosted on Github for FREE!
 There's more to follow! :smile:
 
 ### 1. Sign up on GitHub
 
-Allow me to invite you to sign-up on GitHub. Create an account [here](http://github.com/).
+Allow me to invite you to sign-up on GitHub, if you haven't. Create an account [here](http://github.com/).
 
 ### 2. Create a repository
 
 Once you are logged in, click the **plus icon** on the upper-right corner of the page and then click **New repository**.
 
-Under the **Repository Name**, enter your < username >.github.io For example if your username is *stanley* then I will enter *stanley.github.io*
+Under the **Repository Name**, enter your < username >.github.io For example if your username is *stanley* then enter *stanley.github.io*
 
-Enter a short description like "My web profile"
+Enter a short description like "My web profile" (It's good practice)
 
 Select **Initialize this repository with a README**
 

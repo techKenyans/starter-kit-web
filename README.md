@@ -1,8 +1,9 @@
 # Starter Web Kit
 
-This is the best alternative of doing this than on [jamii](http://techkenyans.org/jamii/) (*swahili* for community on techKenyans)
+This is a better alternative to what was initially at [https://techkenyans.org/jamii/](#).
+**Jamii** is *swahili* for community. On techKenyans, we obsess about what is possible in communities. When enthusiasts, experts come together; a lot happens!
 
-Follow this easy steps to create your own web profile hosted on Github for FREE!
+Follow these easy steps to create your own web profile hosted on Github for FREE!
 There's more to follow! :smile:
 
 ### 1. Sign up on GitHub
@@ -50,5 +51,10 @@ Click on **Commit new file**
 
 You can also upload anything or create them directly on GitHub.
 
-Get to [Codecademy](http://www.codecademy.com/en/tracks/web) among other sites to learn more. Surprise and Wow us!
+---
+If you came across this while in the company of NdagiStanley or other techkenyans they'll help you on next steps. Otherwise, get to [Codecademy](http://www.codecademy.com/en/tracks/web) among other sites to learn more. Surprise and Wow us!
 Click [here](http://ndagistanley.github.io/) to view a sample web profile.
+
+Most times for people starting out in #software #engineering with the vast number of resources, platforms out there; deciding what to do can be daunting. Even for those just eager to be techsavvy, figuring out the basics can as challenging.
+
+Read through [this](https://twitter.com/NdagiStanley/status/1180568668167659527) for insights.
